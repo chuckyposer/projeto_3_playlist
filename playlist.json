@@ -1,0 +1,52 @@
+{
+    "estilos" : {
+        "Eletrônica" : {
+            "Artistas" : {
+                "Kelela" : {
+                    "video" : "https://www.youtube.com/watch?v=py6PgXq0yDM&list=RDpy6PgXq0yDM&start_radio=1&pp=ygUGa2VsZWxhoAcB",
+                    "sobre" : "kelela.txt"
+                },
+                "Underscores" : {
+                    "video" : "https://www.youtube.com/watch?v=UNYqwpx7Cys&list=RDUNYqwpx7Cys&start_radio=1&pp=ygUMdW5kZWVyc2NvcmVzoAcB",
+                    "sobre" : "underscores.txt"
+                }
+            }
+        },
+        "   Pop Alternativo" : {
+            "Artistas" : {
+                "Pinkpantheress" : {
+                    "video" : "https://www.youtube.com/watch?v=qRAJowgHqxA&list=RDqRAJowgHqxA&start_radio=1&pp=ygUOcGlua3BhbnRoZXJlc3OgBwE%3D",
+                    "sobre" : "pinkpantheress.txt"
+                },
+                "Cocteau twins" : {
+                    "video" : "https://www.youtube.com/watch?v=6KnYw4EwYGc&list=RD6KnYw4EwYGc&start_radio=1&pp=ygUQY29jdGVhdSB0d2lucyBtdqAHAQ%3D%3D",
+                    "sobre" : "cocteau_twins.txt"
+                }
+            }
+        },
+        "   KPop" : {
+            "Artistas" : {
+                "BTS" : {
+                    "video" : "https://www.youtube.com/watch?v=_gyultVTesk&list=RD_gyultVTesk&start_radio=1&pp=ygUHYnRzIDIuMKAHAQ%3D%3D",
+                    "sobre" : "bts.txt"
+                },
+                "Ladies' Code" : {
+                    "video" : "https://www.youtube.com/watch?v=hcgT1eq3CLM&list=RDhcgT1eq3CLM&start_radio=1&pp=ygULZ2FsYXh5IGNvZGWgBwE%3D",
+                    "sobre" : "ladies_code.txt"
+                }
+            }
+        },
+        "R&B Alternativo" : {
+            "Artistas" : {
+                "Blood Orange" : {
+                    "video" : "https://www.youtube.com/watch?v=a_0DYKvcjCE&list=RDa_0DYKvcjCE&start_radio=1&pp=ygUYYmxvb2Qgb3JhbmdlIG1pbmQgbG9hZGVkoAcB",
+                    "sobre" : "blood_orange.txt"
+                },
+                "The Internet" : {
+                    "video" : "https://www.youtube.com/watch?v=jG6RnLVX07I&list=RDjG6RnLVX07I&start_radio=1&pp=ygUMdGhlIGludGVybmV0oAcB",
+                    "sobre" : "the_internet.txt"
+                }
+            }
+        }
+    }
+}
